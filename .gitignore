@@ -2,3 +2,10 @@ key.env
 .env
 key.env
 .env
+
+.env
+key.env
+.venv/
+venv/
+__pycache__/
+*.pyc
