@@ -465,7 +465,7 @@ def plot_comparables_bar(comparables: pd.DataFrame):
 
 
 # -----------------------------------------
-# Future price projections
+# Future price projections (Assume 4% Growth Anually until 2030)
 # -----------------------------------------
 
 def project_future_prices(current_price: float,
