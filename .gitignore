@@ -1,11 +1,14 @@
-key.env
+# secrets
 .env
 key.env
-.env
+*.env
 
-.env
-key.env
-.venv/
-venv/
+# python
 __pycache__/
 *.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# virtual env
+.venv/
+venv/
